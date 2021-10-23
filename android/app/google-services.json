@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745739797859",
+    "project_id": "zohaib-proj",
+    "storage_bucket": "zohaib-proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745739797859:android:a1cad55374da3d3dfc3f56",
+        "android_client_info": {
+          "package_name": "com.example.zohaib_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745739797859-dl9rquogk2eo0514626o03p89s0v6ivp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc1BH4anOjZUcJ3jFrhKA212pw7Sxorpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745739797859-dl9rquogk2eo0514626o03p89s0v6ivp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
